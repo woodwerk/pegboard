@@ -29,4 +29,9 @@ Custom design
 ## 8 : Magnetizer holder
 Custom design
 ![](https://github.com/woodwerk/pegboard/blob/master/img/magnetizer_holder.png)
-
+## 9: Pencil holder
+[Thingiverse](https://www.thingiverse.com/thing:4087406)
+## 10: Tray
+[Thingiverse](https://www.thingiverse.com/thing:2795050)
+## 11: Flashlight holder
+[Thingiverse](https://www.thingiverse.com/thing:537516)
