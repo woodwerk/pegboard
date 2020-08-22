@@ -64,5 +64,5 @@ Custom design
 ## 23: Screwdriver holder
 [Thingiverse](https://www.thingiverse.com/thing:3230616)
 ## 24: Power adapter holders
-[Thingiverse](https://www.thingiverse.com/thing:4396912)
+[Thingiverse](https://www.thingiverse.com/thing:902305)
 
