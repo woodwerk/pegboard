@@ -35,3 +35,33 @@ Custom design
 [Thingiverse](https://www.thingiverse.com/thing:2795050)
 ## 11: Flashlight holder
 [Thingiverse](https://www.thingiverse.com/thing:537516)
+## 12: Speed square holder
+[Thingiverse](http://www.thingiverse.com/thing:1242413)
+## 13: Caliper holder
+[Thingiverse](http://www.thingiverse.com/thing:2447511)
+## 14: Square holders
+[Thingiverse](https://www.thingiverse.com/thing:4396912)
+## 15: Sharpie holder
+[Thingiverse](https://www.thingiverse.com/thing:3019444)
+## 16: Tape roll holder
+[Thingiverse](https://www.thingiverse.com)
+## 17: Utility knife blade holder
+[Thingiverse](https://www.thingiverse.com/thing:839173 )
+## 18: IR Thermometer holder
+Custom design
+[Custom](https://www.thingiverse.com/thing:)
+## 19: Mini-torch holder 
+Custom design
+[Custom](https://www.thingiverse.com/thing:)
+## 20: Maglight holder
+Combination [Thingiverse](https://www.thingiverse.com/thing:) with custom sleeve
+## 21: Fluke DVM and voltage probe holder  
+Custom design
+[Custom](https://www.thingiverse.com/thing:)
+## 22: Card and Post-it holder
+[Thingiverse](https://www.thingiverse.com/thing:4396912)
+## 23: Screwdriver holder
+[Thingiverse](https://www.thingiverse.com/thing:4396912)
+## 24: Power adapter holders
+[Thingiverse](https://www.thingiverse.com/thing:4396912)
+
