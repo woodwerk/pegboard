@@ -20,3 +20,7 @@ Custom design
 [Thingiverse](https://www.thingiverse.com/thing:2870643)
 ## 5: Tape measure holder
 [Thingiverse](https://www.thingiverse.com/thing:3105796)
+## 6: Scissors holder
+[Thingiverse](https://www.thingiverse.com/thing:2751305)
+## 6: Pliers holder
+[Thingiverse](https://www.thingiverse.com/thing:2847849)
