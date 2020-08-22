@@ -8,3 +8,11 @@
 ![](https://github.com/woodwerk/pegboard/blob/master/img/main_zoom_2.jpeg)
 ### Annex pegboard
 ![](https://github.com/woodwerk/pegboard/blob/master/img/annex.jpeg)
+
+## 1: Tool tray for Wiha bit sets 
+Custom design
+![](https://github.com/woodwerk/pegboard/blob/master/img/tool_tray.jpeg)
+## 2: Hex bit holder
+[Thingiverse](link_URL)
+## 3: Safety glasses holder
+[Thingiverse](link_URL)
