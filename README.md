@@ -22,5 +22,11 @@ Custom design
 [Thingiverse](https://www.thingiverse.com/thing:3105796)
 ## 6: Scissors holder
 [Thingiverse](https://www.thingiverse.com/thing:2751305)
-## 6: Pliers holder
+## 7: Pliers holder
 [Thingiverse](https://www.thingiverse.com/thing:2847849)
+## 8 : Pliers holder
+[Thingiverse](https://www.thingiverse.com/thing:2847849)
+## 8 : Magnetizer holder
+Custom design
+![](https://github.com/woodwerk/pegboard/blob/master/img/magnetizer_holder.png)
+
