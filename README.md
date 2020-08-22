@@ -57,7 +57,7 @@ Custom design
 Combination [Thingiverse](https://www.thingiverse.com/thing:) with custom sleeve
 ## 21: Fluke DVM and voltage probe holder  
 Custom design
-![](https://github.com/woodwerk/pegboard/blob/master/img/torch_holder.png)
+![](https://github.com/woodwerk/pegboard/blob/master/img/fluke_holder.png)
 ## 22: Card and Post-it holder
 Custom design
 ![](https://github.com/woodwerk/pegboard/blob/master/img/card_holder.png)
