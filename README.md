@@ -11,7 +11,7 @@
 
 ## 1: Tool tray for Wiha bit sets 
 Custom design
-![](https://github.com/woodwerk/pegboard/blob/master/img/tool_tray.jpeg)
+![](https://github.com/woodwerk/pegboard/blob/master/img/tool_tray.png)
 ## 2: Hex bit holder
 [Thingiverse](link_URL)
 ## 3: Safety glasses holder
