@@ -49,17 +49,18 @@ Custom design
 [Thingiverse](https://www.thingiverse.com/thing:839173 )
 ## 18: IR Thermometer holder
 Custom design
-[Custom](https://www.thingiverse.com/thing:)
+![](https://github.com/woodwerk/pegboard/blob/master/img/ir_thermometer.png)
 ## 19: Mini-torch holder 
 Custom design
-[Custom](https://www.thingiverse.com/thing:)
+![](https://github.com/woodwerk/pegboard/blob/master/img/torch_holder.png)
 ## 20: Maglight holder
 Combination [Thingiverse](https://www.thingiverse.com/thing:) with custom sleeve
 ## 21: Fluke DVM and voltage probe holder  
 Custom design
-[Custom](https://www.thingiverse.com/thing:)
+![](https://github.com/woodwerk/pegboard/blob/master/img/torch_holder.png)
 ## 22: Card and Post-it holder
-[Thingiverse](https://www.thingiverse.com/thing:4396912)
+Custom design
+![](https://github.com/woodwerk/pegboard/blob/master/img/card_holder.png)
 ## 23: Screwdriver holder
 [Thingiverse](https://www.thingiverse.com/thing:4396912)
 ## 24: Power adapter holders
