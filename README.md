@@ -44,7 +44,7 @@ Custom design
 ## 15: Sharpie holder
 [Thingiverse](https://www.thingiverse.com/thing:3019444)
 ## 16: Tape roll holder
-[Thingiverse](https://www.thingiverse.com)
+[Pinshape](https://pinshape.com/items/32119-3d-printed-peg-board-filament-spool-arm)
 ## 17: Utility knife blade holder
 [Thingiverse](https://www.thingiverse.com/thing:839173 )
 ## 18: IR Thermometer holder
